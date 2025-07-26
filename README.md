@@ -13,10 +13,12 @@ This is a beginner-friendly calculator app made in Python. It runs in the consol
 2. Run the script:
 3. Select your operation and input two numbers.
 4. Get your result instantly!
-```bash
-python calculator.py
 
 ## ✨ Author
 
 Made with 💻 by Uswa Shahjahan  
 📅 Project #2 of 5 Mini Projects (July 2025 Coding Series)
+
+```bash
+python calculator.py
+
